@@ -1,5 +1,6 @@
 The 7 Duties of Great Software Professionals (Jurgen Appelo)
-* http://vimeo.com/99516367
+* Video http://vimeo.com/99516367
+* Slides http://www.slideshare.net/jurgenappelo/the-7-duties-of-great-software-professionals-10202023
 * Motivate Yourself
 * Direct Yourself
 * Educate Yourself
